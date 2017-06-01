@@ -1,0 +1,20 @@
+{
+  "name": "console",
+  "version": "0.0.1",
+  "description": "Ethereum Console",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "refund": "node index.js"
+  },
+  "keywords": [
+    "console",
+    "ethereum",
+    "web3"
+  ],
+  "author": "ace@dgx.io",
+  "license": "ISC",
+  "dependencies": {
+    "web3": "^0.19.0"
+  }
+}
